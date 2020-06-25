@@ -126,6 +126,11 @@
   <ItemGroup>
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CArbolBusqueda.h" />
+    <ClInclude Include="CColumnas.h" />
+    <ClInclude Include="CFilas.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
